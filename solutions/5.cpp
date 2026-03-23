@@ -1,4 +1,5 @@
 class Solution {
+    
 public:
     string longestPalindrome(string s) {
         int anslen = 0;
