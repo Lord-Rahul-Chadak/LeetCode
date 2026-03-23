@@ -1,4 +1,5 @@
 class Solution {
+    
 public:
     int maxDepth(string s) {
         int ans = 0;
